@@ -1,2 +1,4 @@
 # Data-Structures
-C++ code for RPI Data Structures Spring '17 course
+RPI CSCI 1200: Data Structures 
+
+Implementation of homeworks 1-10 in C++
